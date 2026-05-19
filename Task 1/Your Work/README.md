@@ -20,15 +20,7 @@ Description
 
 1.0
 
-Initial Draft
 
-1.1
-
-Added functional and non-functional requirements
-
-1.2
-
-Added system models and future enhancements
 
 ----------
 
@@ -417,95 +409,8 @@ Updates delivery status and confirms deliveries
 
 ## Context Diagram
 
-The Context Diagram illustrates interactions between:
 
--   Customer
-    
--   Admin
-    
--   Payment Gateway
-    
--   Delivery Service
-    
--   Online Shopping System
-    
-
-----------
-
-## Activity Diagram
-
-The Activity Diagram includes:
-
-1.  User Login/Register
-    
-2.  Product Browsing
-    
-3.  Add to Cart
-    
-4.  Checkout Process
-    
-5.  Payment Processing
-    
-6.  Order Confirmation
-    
-
-----------
-
-## Use Case Diagrams
-
-### Customer Use Cases
-
--   Register/Login
-    
--   Browse Products
-    
--   Add to Cart
-    
--   Place Order
-    
--   Make Payment
-    
--   Track Order
-    
--   Submit Review
-    
-
-### Admin Use Cases
-
--   Manage Products
-    
--   Manage Orders
-    
--   Manage Users
-    
--   Generate Reports
-    
-
-### Delivery Staff Use Cases
-
--   Update Delivery Status
-    
--   Confirm Deliveries
-    
-
-----------
-
-## Sequence Diagram
-
-The Sequence Diagram describes:
-
-1.  Customer selects product
-    
-2.  Adds product to cart
-    
-3.  Initiates payment
-    
-4.  Payment gateway verifies payment
-    
-5.  Order confirmation generated
-    
-
-----------
+<img src="images/o_s.png">
 
 ## Entity Relationship Diagram (ERD)
 
